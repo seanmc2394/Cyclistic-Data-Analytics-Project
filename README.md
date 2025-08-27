@@ -42,15 +42,17 @@ Deliverable for this stage:
 A clear statement of the business task (above) and identification of stakeholders.
 
 
-## 2. Prepare
-For this project, I used Cyclistic’s historical trip data from July 2025, which is publicly available through [Divvy Bikes](https://divvy-tripdata.s3.amazonaws.com/index.html). Even though Cyclistic is a fictional company created for the Google Data Analytics course, the dataset is real and provided under an open license by Motivate International Inc. To keep things manageable, I worked with a selected period of data rather than the entire history.
+## 2. Prepare ???????????
+For this project, I used Cyclistic’s historical trip data updated in July 2025, which is publicly available through [Divvy Bikes](https://divvy-tripdata.s3.amazonaws.com/index.html). Even though Cyclistic is a fictional company created for the Google Data Analytics course, the dataset is real and provided under an open license by Motivate International Inc. To keep things manageable, I worked with a selected period of data rather than the entire history.
 
-The data comes in CSV format and includes information such as ride IDs, bike type, start and end times, station locations, and whether the rider was a casual user or an annual member. Importantly, the dataset does not contain personal information about riders, which ensures privacy is maintained.
+The data comes in CSV ?????????? format and includes information such as ride IDs, bike type, start and end times, station locations, and whether the rider was a casual user or an annual member. Importantly, the dataset does not contain personal information about riders, which ensures privacy is maintained.
 
 At this stage, the focus was on making sure the files were stored and organized properly, and on checking the source’s reliability. Since the dataset is both credible and openly available, it’s a good foundation for answering the business question.
 
+Sorting and Filtering ?????????
 
 
+## 3. Process
 
 
 
